@@ -1,0 +1,20 @@
+# Build outputs
+build/
+bin/
+*.o
+*.a
+*.so
+/netpulse
+/test_netpulse
+/fixture_gen
+
+# Testing and temporary files
+*.tmp
+*.log
+.cache/
+
+# IDE / Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
